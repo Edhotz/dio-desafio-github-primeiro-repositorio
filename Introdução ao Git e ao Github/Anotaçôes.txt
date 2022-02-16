@@ -1,0 +1,3 @@
+Link para download do Git : https://git.downloads.com
+Melhorar a perfomance em git e github
+terminal extendido GitBash
